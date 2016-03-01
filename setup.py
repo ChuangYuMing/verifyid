@@ -4,7 +4,7 @@ setup(
     name='verifyid',
     version='1.0.1',
     py_modules = ['verifyid/verifyid'],
-    description='verify Taiwanese identy number',
+    description='verify Taiwanese identity number',
     author='Jamie Chuang',
     author_email='jamiechuang1228@gmail.com',
     url='https://github.com/ChuangYuMing/verifyid',
